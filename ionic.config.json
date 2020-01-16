@@ -1,5 +1,7 @@
 {
   "name": "paemagdalena",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
